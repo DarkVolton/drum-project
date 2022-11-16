@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  margin-top: 15%;
+}
+
+.drum-pad {
+  box-shadow: 5px 2px 2px grey;
+  border: none;
+  padding: 50px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.drum-pad:active {
+  background-color: rgb(145, 145, 148);
+}
+
+#display {
+  margin: auto;
+  background-color: white;
+  width: 345px;
+  margin-top: 20px;
+  box-shadow: 5px 2px 2px grey;
+  border-radius: 5px;
+}
+
+.clip {
+  display: none;
+}
